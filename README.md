@@ -5,4 +5,4 @@ This repository is the implementation for the classification of Tuberculosis X-r
 Original dataset can be downladed from: 
 https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets
 
-This repository was submitted for the task of Bis800 2019 Spring.
+This repository was submitted for the task of KAIST Bis800 2019 Spring.
